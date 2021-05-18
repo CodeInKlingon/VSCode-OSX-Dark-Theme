@@ -3,41 +3,49 @@
 	"type": "dark",
 	
 	"colors": {
-		"editor.background": "#181c1f",
-		"editor.foreground": "#eeffff",
+		"editor.background": "#1d1e20",
+		"editor.foreground": "#dcdcdc",
 		"editorError.foreground": "#db4213ad",
 		"editor.lineHighlightBorder": "#ffffff00",
 		"editor.lineHighlightBackground": "#101314b9",
-		"editorLineNumber.foreground": "#323f49",
+		"editorLineNumber.foreground": "#3c3e3f",
 		"editorLineNumber.activeForeground": "#eeffff",
-		"editorGroupHeader.tabsBackground": "#1c2125",
+		"editorGroupHeader.tabsBackground": "#333435",
 
-		"tab.inactiveBackground": "#1c2125",
+		"editorGutter.commentRangeForeground":"#37373d",
+
+		"tab.inactiveBackground": "#232425",
 		"tab.inactiveForeground": "#7b848d",
 		"tab.unfocusedInactiveForeground": "#7b848d",
 		"tab.activeForeground": "#62bbff",
 		"tab.unfocusedActiveForeground": "#d8e5f0",
-		"tab.activeBackground": "#181c1f",
+		"tab.activeBackground": "#36383a",
 		"tab.unfocusedActiveBackground": "#181c1f",
 		"tab.unfocusedActiveBorder": "#181c1f",
 		"tab.activeBorder": "#2994e6",
 
-		"activityBarBadge.background": "#007acc",
+		"activityBarBadge.background": "#2657c9",
 		"sideBarTitle.foreground": "#bbbbbb",
 		// "activityBar.foreground": "#007acc",
-		"sideBar.background": "#121416",
+		"sideBar.background": "#28292a",
 		"sideBar.foreground": "#787e8a",
-		"sideBarSectionHeader.background" : "#181b1d",
-		"sideBarSectionHeader.border" : "#121416",
+		"sideBarSectionHeader.background" : "#242525",
+		"sideBarSectionHeader.border" : "#1d1e20",
 
 		"sideBarSectionHeader.foreground":"#b5b7b9" ,
 
-		"activityBar.background": "#0d0e0f",
+		"activityBar.activeBackground": "#464646",
+		"activityBar.foreground":"#d8e5f0",
+		"activityBar.inactiveForeground":"#bbbbbb",
+		"activityBar.background":"#272829",
 
-		"titleBar.activeBackground": "#121416",
-		"titleBar.activeForeground": "#d4d4d4"
+
+		"titleBar.activeBackground": "#333435",
+		"titleBar.activeForeground": "#d4d4d4",
+		"statusBar.background": "#333435"
 	},
 	"workbench.colorCustomizations": {
+		"titleBar.activeBackground": "#333435",
 
 	},
 	 "tokenColors": [

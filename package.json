@@ -1,7 +1,7 @@
 {
 	"name": "dark-theme-rises",
-    "displayName": "Dark Theme Rises",
-	"description": "An enhanced dark theme.",
+    "displayName": "Dark OSX Theme",
+	"description": "A OSX-like dark theme.",
 	"publisher": "CodeInKlingon",
     "version": "0.0.1",
     "engines": {
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Dark Theme Rises",
+                "label": "Dark OSX Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Dark Theme Rises-color-theme.json"
+                "path": "./themes/Dark-OSX-Theme-color-theme.json"
             }
         ]
     }
